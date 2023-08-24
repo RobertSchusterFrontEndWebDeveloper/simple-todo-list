@@ -1,0 +1,2 @@
+JavaScript save local storage
+Event delegation
